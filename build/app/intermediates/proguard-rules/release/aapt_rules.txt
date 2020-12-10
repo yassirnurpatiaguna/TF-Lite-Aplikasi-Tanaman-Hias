@@ -1,0 +1,10 @@
+# Referenced at D:\Skripsi\Klasifikasi Tanaman Hias\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:21
+-keep class androidx.core.app.CoreComponentFactory { <init>(); }
+# Referenced at D:\Skripsi\Klasifikasi Tanaman Hias\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:56
+-keep class androidx.lifecycle.ProcessLifecycleOwnerInitializer { <init>(); }
+# Referenced at D:\Skripsi\Klasifikasi Tanaman Hias\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:26
+-keep class com.yassir.tanamanhias.MainActivity { <init>(); }
+# Referenced at D:\Skripsi\Klasifikasi Tanaman Hias\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:21
+-keep class io.flutter.app.FlutterApplication { <init>(); }
+# Referenced at D:\Skripsi\Klasifikasi Tanaman Hias\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:47
+-keep class io.flutter.plugins.imagepicker.ImagePickerFileProvider { <init>(); }

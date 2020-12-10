@@ -1,0 +1,200 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Skripsi\Klasifikasi Tanaman Hias\android\app\src\main\AndroidManifest.xml:1:1-31:12
+INJECTED from D:\Skripsi\Klasifikasi Tanaman Hias\android\app\src\main\AndroidManifest.xml:1:1-31:12
+INJECTED from D:\Skripsi\Klasifikasi Tanaman Hias\android\app\src\main\AndroidManifest.xml:1:1-31:12
+INJECTED from D:\Skripsi\Klasifikasi Tanaman Hias\android\app\src\main\AndroidManifest.xml:1:1-31:12
+MERGED from [:tflite] D:\Skripsi\Klasifikasi Tanaman Hias\build\tflite\intermediates\library_manifest\release\AndroidManifest.xml:2:1-7:12
+MERGED from [org.tensorflow:tensorflow-lite:2.2.0] C:\Users\yassir\.gradle\caches\transforms-2\files-2.1\c241f5157e7f1a211e1b6762ace8c499\tensorflow-lite-2.2.0\AndroidManifest.xml:2:1-12:12
+MERGED from [org.tensorflow:tensorflow-lite-gpu:2.2.0] C:\Users\yassir\.gradle\caches\transforms-2\files-2.1\554f16dbe0eb115519243a66fcde6765\tensorflow-lite-gpu-2.2.0\AndroidManifest.xml:2:1-12:12
+MERGED from [:image_picker] D:\Skripsi\Klasifikasi Tanaman Hias\build\image_picker\intermediates\library_manifest\release\AndroidManifest.xml:2:1-22:12
+MERGED from [:flutter_plugin_android_lifecycle] D:\Skripsi\Klasifikasi Tanaman Hias\build\flutter_plugin_android_lifecycle\intermediates\library_manifest\release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\yassir\.gradle\caches\transforms-2\files-2.1\1296d66d474583bb6c1b6caf8be68088\lifecycle-extensions-2.2.0\AndroidManifest.xml:17:1-27:12
+MERGED from [:path_provider] D:\Skripsi\Klasifikasi Tanaman Hias\build\path_provider\intermediates\library_manifest\release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\yassir\.gradle\caches\transforms-2\files-2.1\98b39a8d273e7964d4c7f29af7ec708c\lifecycle-process-2.2.0\AndroidManifest.xml:17:1-32:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] C:\Users\yassir\.gradle\caches\transforms-2\files-2.1\2bdb0ac2573454baa661e1034e3e2dc3\lifecycle-service-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.2.0] C:\Users\yassir\.gradle\caches\transforms-2\files-2.1\356b29cdaa439faf2481b73a3b38564c\fragment-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\yassir\.gradle\caches\transforms-2\files-2.1\28d99d5113324aa067757f8ca41a426f\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\yassir\.gradle\caches\transforms-2\files-2.1\e1bbce6b0d79e8479b70e7bd729bb743\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\yassir\.gradle\caches\transforms-2\files-2.1\70c302aef4fa2a5c25f32246341fc6c5\activity-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\yassir\.gradle\caches\transforms-2\files-2.1\ef0bef029ab70f5fb29de019060cf5fd\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\yassir\.gradle\caches\transforms-2\files-2.1\a528b13ac93e64cafa3d0480e2c93207\core-1.1.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\yassir\.gradle\caches\transforms-2\files-2.1\49ede1f7b9aa322a43288e9745adc2db\lifecycle-runtime-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] C:\Users\yassir\.gradle\caches\transforms-2\files-2.1\122e90ee24a7389cd7e0e3d0b229272d\lifecycle-livedata-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:1.0.0] C:\Users\yassir\.gradle\caches\transforms-2\files-2.1\87630fa63698cda847484cd18dc1119c\lifecycle-viewmodel-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\yassir\.gradle\caches\transforms-2\files-2.1\af6acba5daf0e433f1a3d267d4b5a3e7\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\yassir\.gradle\caches\transforms-2\files-2.1\1d1afe1a3ce0072d338b2104e2243764\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\yassir\.gradle\caches\transforms-2\files-2.1\54d8b8735f730e83f07925f758092af3\savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\yassir\.gradle\caches\transforms-2\files-2.1\cc2a9317795cbcfb261eb2e555d067be\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\yassir\.gradle\caches\transforms-2\files-2.1\3a7eb299570065a3866b140e1a95969b\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+INJECTED from D:\Skripsi\Klasifikasi Tanaman Hias\android\app\src\main\AndroidManifest.xml:1:1-31:12
+INJECTED from D:\Skripsi\Klasifikasi Tanaman Hias\android\app\src\main\AndroidManifest.xml:1:1-31:12
+INJECTED from D:\Skripsi\Klasifikasi Tanaman Hias\android\app\src\main\AndroidManifest.xml:1:1-31:12
+	package
+		ADDED from D:\Skripsi\Klasifikasi Tanaman Hias\android\app\src\main\AndroidManifest.xml:2:5-37
+		INJECTED from D:\Skripsi\Klasifikasi Tanaman Hias\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Skripsi\Klasifikasi Tanaman Hias\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Skripsi\Klasifikasi Tanaman Hias\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\Skripsi\Klasifikasi Tanaman Hias\android\app\src\main\AndroidManifest.xml:1:1-31:12
+		INJECTED from D:\Skripsi\Klasifikasi Tanaman Hias\android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Skripsi\Klasifikasi Tanaman Hias\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\Skripsi\Klasifikasi Tanaman Hias\android\app\src\main\AndroidManifest.xml:1:1-31:12
+		INJECTED from D:\Skripsi\Klasifikasi Tanaman Hias\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Skripsi\Klasifikasi Tanaman Hias\android\app\src\main\AndroidManifest.xml:1:11-69
+application
+ADDED from D:\Skripsi\Klasifikasi Tanaman Hias\android\app\src\main\AndroidManifest.xml:8:5-29:19
+MERGED from [org.tensorflow:tensorflow-lite:2.2.0] C:\Users\yassir\.gradle\caches\transforms-2\files-2.1\c241f5157e7f1a211e1b6762ace8c499\tensorflow-lite-2.2.0\AndroidManifest.xml:10:5-20
+MERGED from [org.tensorflow:tensorflow-lite:2.2.0] C:\Users\yassir\.gradle\caches\transforms-2\files-2.1\c241f5157e7f1a211e1b6762ace8c499\tensorflow-lite-2.2.0\AndroidManifest.xml:10:5-20
+MERGED from [org.tensorflow:tensorflow-lite-gpu:2.2.0] C:\Users\yassir\.gradle\caches\transforms-2\files-2.1\554f16dbe0eb115519243a66fcde6765\tensorflow-lite-gpu-2.2.0\AndroidManifest.xml:10:5-20
+MERGED from [org.tensorflow:tensorflow-lite-gpu:2.2.0] C:\Users\yassir\.gradle\caches\transforms-2\files-2.1\554f16dbe0eb115519243a66fcde6765\tensorflow-lite-gpu-2.2.0\AndroidManifest.xml:10:5-20
+MERGED from [:image_picker] D:\Skripsi\Klasifikasi Tanaman Hias\build\image_picker\intermediates\library_manifest\release\AndroidManifest.xml:10:5-20:19
+MERGED from [:image_picker] D:\Skripsi\Klasifikasi Tanaman Hias\build\image_picker\intermediates\library_manifest\release\AndroidManifest.xml:10:5-20:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\yassir\.gradle\caches\transforms-2\files-2.1\1296d66d474583bb6c1b6caf8be68088\lifecycle-extensions-2.2.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\yassir\.gradle\caches\transforms-2\files-2.1\1296d66d474583bb6c1b6caf8be68088\lifecycle-extensions-2.2.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\yassir\.gradle\caches\transforms-2\files-2.1\98b39a8d273e7964d4c7f29af7ec708c\lifecycle-process-2.2.0\AndroidManifest.xml:24:5-30:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\yassir\.gradle\caches\transforms-2\files-2.1\98b39a8d273e7964d4c7f29af7ec708c\lifecycle-process-2.2.0\AndroidManifest.xml:24:5-30:19
+MERGED from [androidx.core:core:1.1.0] C:\Users\yassir\.gradle\caches\transforms-2\files-2.1\a528b13ac93e64cafa3d0480e2c93207\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\yassir\.gradle\caches\transforms-2\files-2.1\a528b13ac93e64cafa3d0480e2c93207\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\yassir\.gradle\caches\transforms-2\files-2.1\3a7eb299570065a3866b140e1a95969b\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\yassir\.gradle\caches\transforms-2\files-2.1\3a7eb299570065a3866b140e1a95969b\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\yassir\.gradle\caches\transforms-2\files-2.1\a528b13ac93e64cafa3d0480e2c93207\core-1.1.0\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from D:\Skripsi\Klasifikasi Tanaman Hias\android\app\src\main\AndroidManifest.xml:10:9-49
+	android:icon
+		ADDED from D:\Skripsi\Klasifikasi Tanaman Hias\android\app\src\main\AndroidManifest.xml:11:9-43
+	android:name
+		ADDED from D:\Skripsi\Klasifikasi Tanaman Hias\android\app\src\main\AndroidManifest.xml:9:9-57
+activity#com.yassir.tanamanhias.MainActivity
+ADDED from D:\Skripsi\Klasifikasi Tanaman Hias\android\app\src\main\AndroidManifest.xml:12:9-23:20
+	android:launchMode
+		ADDED from D:\Skripsi\Klasifikasi Tanaman Hias\android\app\src\main\AndroidManifest.xml:14:13-43
+	android:hardwareAccelerated
+		ADDED from D:\Skripsi\Klasifikasi Tanaman Hias\android\app\src\main\AndroidManifest.xml:17:13-47
+	android:windowSoftInputMode
+		ADDED from D:\Skripsi\Klasifikasi Tanaman Hias\android\app\src\main\AndroidManifest.xml:18:13-55
+	android:configChanges
+		ADDED from D:\Skripsi\Klasifikasi Tanaman Hias\android\app\src\main\AndroidManifest.xml:16:13-163
+	android:theme
+		ADDED from D:\Skripsi\Klasifikasi Tanaman Hias\android\app\src\main\AndroidManifest.xml:15:13-47
+	android:name
+		ADDED from D:\Skripsi\Klasifikasi Tanaman Hias\android\app\src\main\AndroidManifest.xml:13:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Skripsi\Klasifikasi Tanaman Hias\android\app\src\main\AndroidManifest.xml:19:13-22:29
+action#android.intent.action.MAIN
+ADDED from D:\Skripsi\Klasifikasi Tanaman Hias\android\app\src\main\AndroidManifest.xml:20:17-68
+	android:name
+		ADDED from D:\Skripsi\Klasifikasi Tanaman Hias\android\app\src\main\AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Skripsi\Klasifikasi Tanaman Hias\android\app\src\main\AndroidManifest.xml:21:17-76
+	android:name
+		ADDED from D:\Skripsi\Klasifikasi Tanaman Hias\android\app\src\main\AndroidManifest.xml:21:27-74
+meta-data#flutterEmbedding
+ADDED from D:\Skripsi\Klasifikasi Tanaman Hias\android\app\src\main\AndroidManifest.xml:26:9-28:33
+	android:value
+		ADDED from D:\Skripsi\Klasifikasi Tanaman Hias\android\app\src\main\AndroidManifest.xml:28:13-30
+	android:name
+		ADDED from D:\Skripsi\Klasifikasi Tanaman Hias\android\app\src\main\AndroidManifest.xml:27:13-44
+uses-permission#android.permission.INTERNET
+ADDED from D:\Skripsi\Klasifikasi Tanaman Hias\android\app\src\main\AndroidManifest.xml:30:5-66
+	android:name
+		ADDED from D:\Skripsi\Klasifikasi Tanaman Hias\android\app\src\main\AndroidManifest.xml:30:22-64
+uses-sdk
+INJECTED from D:\Skripsi\Klasifikasi Tanaman Hias\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Skripsi\Klasifikasi Tanaman Hias\android\app\src\main\AndroidManifest.xml
+INJECTED from D:\Skripsi\Klasifikasi Tanaman Hias\android\app\src\main\AndroidManifest.xml
+MERGED from [:tflite] D:\Skripsi\Klasifikasi Tanaman Hias\build\tflite\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:tflite] D:\Skripsi\Klasifikasi Tanaman Hias\build\tflite\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [org.tensorflow:tensorflow-lite:2.2.0] C:\Users\yassir\.gradle\caches\transforms-2\files-2.1\c241f5157e7f1a211e1b6762ace8c499\tensorflow-lite-2.2.0\AndroidManifest.xml:7:5-8:41
+MERGED from [org.tensorflow:tensorflow-lite:2.2.0] C:\Users\yassir\.gradle\caches\transforms-2\files-2.1\c241f5157e7f1a211e1b6762ace8c499\tensorflow-lite-2.2.0\AndroidManifest.xml:7:5-8:41
+MERGED from [org.tensorflow:tensorflow-lite-gpu:2.2.0] C:\Users\yassir\.gradle\caches\transforms-2\files-2.1\554f16dbe0eb115519243a66fcde6765\tensorflow-lite-gpu-2.2.0\AndroidManifest.xml:7:5-8:41
+MERGED from [org.tensorflow:tensorflow-lite-gpu:2.2.0] C:\Users\yassir\.gradle\caches\transforms-2\files-2.1\554f16dbe0eb115519243a66fcde6765\tensorflow-lite-gpu-2.2.0\AndroidManifest.xml:7:5-8:41
+MERGED from [:image_picker] D:\Skripsi\Klasifikasi Tanaman Hias\build\image_picker\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:image_picker] D:\Skripsi\Klasifikasi Tanaman Hias\build\image_picker\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] D:\Skripsi\Klasifikasi Tanaman Hias\build\flutter_plugin_android_lifecycle\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] D:\Skripsi\Klasifikasi Tanaman Hias\build\flutter_plugin_android_lifecycle\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\yassir\.gradle\caches\transforms-2\files-2.1\1296d66d474583bb6c1b6caf8be68088\lifecycle-extensions-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\yassir\.gradle\caches\transforms-2\files-2.1\1296d66d474583bb6c1b6caf8be68088\lifecycle-extensions-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [:path_provider] D:\Skripsi\Klasifikasi Tanaman Hias\build\path_provider\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:path_provider] D:\Skripsi\Klasifikasi Tanaman Hias\build\path_provider\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\yassir\.gradle\caches\transforms-2\files-2.1\98b39a8d273e7964d4c7f29af7ec708c\lifecycle-process-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\yassir\.gradle\caches\transforms-2\files-2.1\98b39a8d273e7964d4c7f29af7ec708c\lifecycle-process-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] C:\Users\yassir\.gradle\caches\transforms-2\files-2.1\2bdb0ac2573454baa661e1034e3e2dc3\lifecycle-service-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] C:\Users\yassir\.gradle\caches\transforms-2\files-2.1\2bdb0ac2573454baa661e1034e3e2dc3\lifecycle-service-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.0] C:\Users\yassir\.gradle\caches\transforms-2\files-2.1\356b29cdaa439faf2481b73a3b38564c\fragment-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.0] C:\Users\yassir\.gradle\caches\transforms-2\files-2.1\356b29cdaa439faf2481b73a3b38564c\fragment-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\yassir\.gradle\caches\transforms-2\files-2.1\28d99d5113324aa067757f8ca41a426f\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\yassir\.gradle\caches\transforms-2\files-2.1\28d99d5113324aa067757f8ca41a426f\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\yassir\.gradle\caches\transforms-2\files-2.1\e1bbce6b0d79e8479b70e7bd729bb743\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\yassir\.gradle\caches\transforms-2\files-2.1\e1bbce6b0d79e8479b70e7bd729bb743\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\yassir\.gradle\caches\transforms-2\files-2.1\70c302aef4fa2a5c25f32246341fc6c5\activity-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\yassir\.gradle\caches\transforms-2\files-2.1\70c302aef4fa2a5c25f32246341fc6c5\activity-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\yassir\.gradle\caches\transforms-2\files-2.1\ef0bef029ab70f5fb29de019060cf5fd\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\yassir\.gradle\caches\transforms-2\files-2.1\ef0bef029ab70f5fb29de019060cf5fd\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] C:\Users\yassir\.gradle\caches\transforms-2\files-2.1\a528b13ac93e64cafa3d0480e2c93207\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\yassir\.gradle\caches\transforms-2\files-2.1\a528b13ac93e64cafa3d0480e2c93207\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\yassir\.gradle\caches\transforms-2\files-2.1\49ede1f7b9aa322a43288e9745adc2db\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\yassir\.gradle\caches\transforms-2\files-2.1\49ede1f7b9aa322a43288e9745adc2db\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] C:\Users\yassir\.gradle\caches\transforms-2\files-2.1\122e90ee24a7389cd7e0e3d0b229272d\lifecycle-livedata-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] C:\Users\yassir\.gradle\caches\transforms-2\files-2.1\122e90ee24a7389cd7e0e3d0b229272d\lifecycle-livedata-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:1.0.0] C:\Users\yassir\.gradle\caches\transforms-2\files-2.1\87630fa63698cda847484cd18dc1119c\lifecycle-viewmodel-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:1.0.0] C:\Users\yassir\.gradle\caches\transforms-2\files-2.1\87630fa63698cda847484cd18dc1119c\lifecycle-viewmodel-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\yassir\.gradle\caches\transforms-2\files-2.1\af6acba5daf0e433f1a3d267d4b5a3e7\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\yassir\.gradle\caches\transforms-2\files-2.1\af6acba5daf0e433f1a3d267d4b5a3e7\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\yassir\.gradle\caches\transforms-2\files-2.1\1d1afe1a3ce0072d338b2104e2243764\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\yassir\.gradle\caches\transforms-2\files-2.1\1d1afe1a3ce0072d338b2104e2243764\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\yassir\.gradle\caches\transforms-2\files-2.1\54d8b8735f730e83f07925f758092af3\savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\yassir\.gradle\caches\transforms-2\files-2.1\54d8b8735f730e83f07925f758092af3\savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\yassir\.gradle\caches\transforms-2\files-2.1\cc2a9317795cbcfb261eb2e555d067be\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\yassir\.gradle\caches\transforms-2\files-2.1\cc2a9317795cbcfb261eb2e555d067be\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\yassir\.gradle\caches\transforms-2\files-2.1\3a7eb299570065a3866b140e1a95969b\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\yassir\.gradle\caches\transforms-2\files-2.1\3a7eb299570065a3866b140e1a95969b\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+INJECTED from D:\Skripsi\Klasifikasi Tanaman Hias\android\app\src\main\AndroidManifest.xml
+INJECTED from D:\Skripsi\Klasifikasi Tanaman Hias\android\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Skripsi\Klasifikasi Tanaman Hias\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\Skripsi\Klasifikasi Tanaman Hias\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Skripsi\Klasifikasi Tanaman Hias\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Skripsi\Klasifikasi Tanaman Hias\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\Skripsi\Klasifikasi Tanaman Hias\android\app\src\main\AndroidManifest.xml
+		MERGED from D:\Skripsi\Klasifikasi Tanaman Hias\android\app\src\main\AndroidManifest.xml
+		MERGED from D:\Skripsi\Klasifikasi Tanaman Hias\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Skripsi\Klasifikasi Tanaman Hias\android\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from [:image_picker] D:\Skripsi\Klasifikasi Tanaman Hias\build\image_picker\intermediates\library_manifest\release\AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from [:image_picker] D:\Skripsi\Klasifikasi Tanaman Hias\build\image_picker\intermediates\library_manifest\release\AndroidManifest.xml:7:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [:image_picker] D:\Skripsi\Klasifikasi Tanaman Hias\build\image_picker\intermediates\library_manifest\release\AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from [:image_picker] D:\Skripsi\Klasifikasi Tanaman Hias\build\image_picker\intermediates\library_manifest\release\AndroidManifest.xml:8:22-78
+provider#io.flutter.plugins.imagepicker.ImagePickerFileProvider
+ADDED from [:image_picker] D:\Skripsi\Klasifikasi Tanaman Hias\build\image_picker\intermediates\library_manifest\release\AndroidManifest.xml:11:9-19:20
+	android:grantUriPermissions
+		ADDED from [:image_picker] D:\Skripsi\Klasifikasi Tanaman Hias\build\image_picker\intermediates\library_manifest\release\AndroidManifest.xml:15:13-47
+	android:authorities
+		ADDED from [:image_picker] D:\Skripsi\Klasifikasi Tanaman Hias\build\image_picker\intermediates\library_manifest\release\AndroidManifest.xml:13:13-74
+	android:exported
+		ADDED from [:image_picker] D:\Skripsi\Klasifikasi Tanaman Hias\build\image_picker\intermediates\library_manifest\release\AndroidManifest.xml:14:13-37
+	android:name
+		ADDED from [:image_picker] D:\Skripsi\Klasifikasi Tanaman Hias\build\image_picker\intermediates\library_manifest\release\AndroidManifest.xml:12:13-82
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:image_picker] D:\Skripsi\Klasifikasi Tanaman Hias\build\image_picker\intermediates\library_manifest\release\AndroidManifest.xml:16:13-18:75
+	android:resource
+		ADDED from [:image_picker] D:\Skripsi\Klasifikasi Tanaman Hias\build\image_picker\intermediates\library_manifest\release\AndroidManifest.xml:18:17-72
+	android:name
+		ADDED from [:image_picker] D:\Skripsi\Klasifikasi Tanaman Hias\build\image_picker\intermediates\library_manifest\release\AndroidManifest.xml:17:17-67
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\yassir\.gradle\caches\transforms-2\files-2.1\98b39a8d273e7964d4c7f29af7ec708c\lifecycle-process-2.2.0\AndroidManifest.xml:25:9-29:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\yassir\.gradle\caches\transforms-2\files-2.1\98b39a8d273e7964d4c7f29af7ec708c\lifecycle-process-2.2.0\AndroidManifest.xml:27:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\yassir\.gradle\caches\transforms-2\files-2.1\98b39a8d273e7964d4c7f29af7ec708c\lifecycle-process-2.2.0\AndroidManifest.xml:29:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\yassir\.gradle\caches\transforms-2\files-2.1\98b39a8d273e7964d4c7f29af7ec708c\lifecycle-process-2.2.0\AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\yassir\.gradle\caches\transforms-2\files-2.1\98b39a8d273e7964d4c7f29af7ec708c\lifecycle-process-2.2.0\AndroidManifest.xml:26:13-79

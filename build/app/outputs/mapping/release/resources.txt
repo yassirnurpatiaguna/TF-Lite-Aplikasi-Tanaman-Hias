@@ -1,0 +1,64 @@
+Resource Reference Graph:
+anim:fragment_close_enter:2130771968 => [anim:fragment_fast_out_extra_slow_in:2130771972]
+anim:fragment_close_exit:2130771969 => [anim:fragment_fast_out_extra_slow_in:2130771972]
+anim:fragment_open_enter:2130771973 => [anim:fragment_fast_out_extra_slow_in:2130771972]
+anim:fragment_open_exit:2130771974 => [anim:fragment_fast_out_extra_slow_in:2130771972]
+color:notification_action_color_filter:2130903040 => [color:secondary_text_default_material_light:2130903043]
+dimen:notification_media_narrow_margin:2130968590 => [dimen:notification_content_margin_start:2130968586]
+drawable:launch_background:2131034112 => [mipmap:splash:2131296257]
+drawable:notification_action_background:2131034113 => [color:ripple_material_light:2130903042, dimen:compat_button_inset_vertical_material:2130968577, dimen:compat_button_inset_horizontal_material:2130968576, dimen:compat_control_corner_material:2130968580, dimen:compat_button_padding_vertical_material:2130968579, dimen:compat_button_padding_horizontal_material:2130968578]
+drawable:notification_bg:2131034114 => [drawable:notification_bg_normal_pressed:2131034119, drawable:notification_bg_normal:2131034118]
+drawable:notification_bg_low:2131034115 => [drawable:notification_bg_low_pressed:2131034117, drawable:notification_bg_low_normal:2131034116]
+drawable:notification_icon_background:2131034120 => [color:notification_icon_bg_color:2130903041]
+drawable:notification_tile_bg:2131034123 => [drawable:notify_panel_notification_icon_bg:2131034124]
+layout:notification_action:2131230721 => [style:Widget_Compat_NotificationActionContainer:2131427334, dimen:notification_action_icon_size:2130968583, style:Widget_Compat_NotificationActionText:2131427335]
+layout:notification_action_tombstone:2131230722 => [style:Widget_Compat_NotificationActionContainer:2131427334, dimen:notification_action_icon_size:2130968583, style:Widget_Compat_NotificationActionText:2131427335]
+layout:notification_template_custom_big:2131230723 => [dimen:notification_large_icon_height:2130968587, dimen:notification_large_icon_width:2130968588, layout:notification_template_icon_group:2131230724, dimen:notification_right_side_padding_top:2130968592, layout:notification_template_part_time:2131230726, layout:notification_template_part_chronometer:2131230725, style:TextAppearance_Compat_Notification_Info:2131427330]
+layout:notification_template_icon_group:2131230724 => [dimen:notification_large_icon_height:2130968587, dimen:notification_large_icon_width:2130968588, dimen:notification_big_circle_margin:2130968585, dimen:notification_right_icon_size:2130968591]
+layout:notification_template_part_chronometer:2131230725 => [style:TextAppearance_Compat_Notification_Time:2131427332]
+layout:notification_template_part_time:2131230726 => [style:TextAppearance_Compat_Notification_Time:2131427332]
+style:LaunchTheme:2131427328 => [drawable:launch_background:2131034112]
+style:TextAppearance_Compat_Notification_Info:2131427330 => [style:TextAppearance_Compat_Notification:2131427329, style:TextAppearance_Compat:-1, style:TextAppearance:-1]
+style:TextAppearance_Compat_Notification_Line2:2131427331 => [style:TextAppearance_Compat_Notification_Info:2131427330]
+style:TextAppearance_Compat_Notification_Time:2131427332 => [style:TextAppearance_Compat_Notification:2131427329, style:TextAppearance_Compat:-1, style:TextAppearance:-1]
+style:Widget_Compat_NotificationActionContainer:2131427334 => [drawable:notification_action_background:2131034113]
+style:Widget_Compat_NotificationActionText:2131427335 => [color:secondary_text_default_material_light:2130903043, dimen:notification_action_text_size:2130968584]
+
+The root reachable resources are:
+mipmap:ic_launcher:2131296256,
+   style:LaunchTheme:2131427328,
+   xml:flutter_image_picker_file_paths:2131558400
+Skipped unused resource res/anim/fragment_close_enter.xml: -1 bytes (replaced with small dummy file of size 104 bytes)
+Skipped unused resource res/anim/fragment_close_exit.xml: -1 bytes (replaced with small dummy file of size 104 bytes)
+Skipped unused resource res/anim/fragment_fade_enter.xml: -1 bytes (replaced with small dummy file of size 104 bytes)
+Skipped unused resource res/anim/fragment_fade_exit.xml: -1 bytes (replaced with small dummy file of size 104 bytes)
+Skipped unused resource res/anim-v21/fragment_fast_out_extra_slow_in.xml: -1 bytes (replaced with small dummy file of size 104 bytes)
+Skipped unused resource res/anim/fragment_open_enter.xml: -1 bytes (replaced with small dummy file of size 104 bytes)
+Skipped unused resource res/anim/fragment_open_exit.xml: -1 bytes (replaced with small dummy file of size 104 bytes)
+Skipped unused resource res/drawable-v21/notification_action_background.xml: -1 bytes (replaced with small dummy file of size 104 bytes)
+Skipped unused resource res/drawable/notification_bg.xml: -1 bytes (replaced with small dummy file of size 104 bytes)
+Skipped unused resource res/drawable/notification_bg_low.xml: -1 bytes (replaced with small dummy file of size 104 bytes)
+Skipped unused resource res/drawable/notification_icon_background.xml: -1 bytes (replaced with small dummy file of size 104 bytes)
+Skipped unused resource res/drawable/notification_tile_bg.xml: -1 bytes (replaced with small dummy file of size 104 bytes)
+Skipped unused resource res/drawable-mdpi-v4/notification_bg_low_normal.9.png: 215 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-mdpi-v4/notification_bg_low_pressed.9.png: 223 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-mdpi-v4/notification_bg_normal.9.png: 215 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-mdpi-v4/notification_bg_normal_pressed.9.png: 223 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-mdpi-v4/notify_panel_notification_icon_bg.png: 98 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable-hdpi-v4/notification_bg_low_normal.9.png: 212 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-hdpi-v4/notification_bg_low_pressed.9.png: 225 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-hdpi-v4/notification_bg_normal.9.png: 212 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-hdpi-v4/notification_bg_normal_pressed.9.png: 225 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-hdpi-v4/notify_panel_notification_icon_bg.png: 107 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable-xhdpi-v4/notification_bg_low_normal.9.png: 221 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-xhdpi-v4/notification_bg_low_pressed.9.png: 252 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-xhdpi-v4/notification_bg_normal.9.png: 221 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png: 247 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png: 138 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/layout/custom_dialog.xml: -1 bytes (replaced with small dummy file of size 104 bytes)
+Skipped unused resource res/layout-v21/notification_action.xml: -1 bytes (replaced with small dummy file of size 104 bytes)
+Skipped unused resource res/layout-v21/notification_action_tombstone.xml: -1 bytes (replaced with small dummy file of size 104 bytes)
+Skipped unused resource res/layout-v21/notification_template_custom_big.xml: -1 bytes (replaced with small dummy file of size 104 bytes)
+Skipped unused resource res/layout-v21/notification_template_icon_group.xml: -1 bytes (replaced with small dummy file of size 104 bytes)
+Skipped unused resource res/layout/notification_template_part_chronometer.xml: -1 bytes (replaced with small dummy file of size 104 bytes)
+Skipped unused resource res/layout/notification_template_part_time.xml: -1 bytes (replaced with small dummy file of size 104 bytes)

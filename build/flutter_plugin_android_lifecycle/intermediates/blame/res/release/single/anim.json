@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "D:\\Skripsi\\Klasifikasi Tanaman Hias\\build\\flutter_plugin_android_lifecycle\\intermediates\\res\\merged\\release\\anim\\fragment_fade_exit.xml",
+        "source": "C:\\Users\\yassir\\.gradle\\caches\\transforms-2\\files-2.1\\356b29cdaa439faf2481b73a3b38564c\\fragment-1.2.0\\res\\anim\\fragment_fade_exit.xml"
+    },
+    {
+        "merged": "D:\\Skripsi\\Klasifikasi Tanaman Hias\\build\\flutter_plugin_android_lifecycle\\intermediates\\res\\merged\\release\\anim\\fragment_open_enter.xml",
+        "source": "C:\\Users\\yassir\\.gradle\\caches\\transforms-2\\files-2.1\\356b29cdaa439faf2481b73a3b38564c\\fragment-1.2.0\\res\\anim\\fragment_open_enter.xml"
+    },
+    {
+        "merged": "D:\\Skripsi\\Klasifikasi Tanaman Hias\\build\\flutter_plugin_android_lifecycle\\intermediates\\res\\merged\\release\\anim\\fragment_close_enter.xml",
+        "source": "C:\\Users\\yassir\\.gradle\\caches\\transforms-2\\files-2.1\\356b29cdaa439faf2481b73a3b38564c\\fragment-1.2.0\\res\\anim\\fragment_close_enter.xml"
+    },
+    {
+        "merged": "D:\\Skripsi\\Klasifikasi Tanaman Hias\\build\\flutter_plugin_android_lifecycle\\intermediates\\res\\merged\\release\\anim\\fragment_open_exit.xml",
+        "source": "C:\\Users\\yassir\\.gradle\\caches\\transforms-2\\files-2.1\\356b29cdaa439faf2481b73a3b38564c\\fragment-1.2.0\\res\\anim\\fragment_open_exit.xml"
+    },
+    {
+        "merged": "D:\\Skripsi\\Klasifikasi Tanaman Hias\\build\\flutter_plugin_android_lifecycle\\intermediates\\res\\merged\\release\\anim\\fragment_fast_out_extra_slow_in.xml",
+        "source": "C:\\Users\\yassir\\.gradle\\caches\\transforms-2\\files-2.1\\356b29cdaa439faf2481b73a3b38564c\\fragment-1.2.0\\res\\anim\\fragment_fast_out_extra_slow_in.xml"
+    },
+    {
+        "merged": "D:\\Skripsi\\Klasifikasi Tanaman Hias\\build\\flutter_plugin_android_lifecycle\\intermediates\\res\\merged\\release\\anim\\fragment_fade_enter.xml",
+        "source": "C:\\Users\\yassir\\.gradle\\caches\\transforms-2\\files-2.1\\356b29cdaa439faf2481b73a3b38564c\\fragment-1.2.0\\res\\anim\\fragment_fade_enter.xml"
+    },
+    {
+        "merged": "D:\\Skripsi\\Klasifikasi Tanaman Hias\\build\\flutter_plugin_android_lifecycle\\intermediates\\res\\merged\\release\\anim\\fragment_close_exit.xml",
+        "source": "C:\\Users\\yassir\\.gradle\\caches\\transforms-2\\files-2.1\\356b29cdaa439faf2481b73a3b38564c\\fragment-1.2.0\\res\\anim\\fragment_close_exit.xml"
+    }
+]
